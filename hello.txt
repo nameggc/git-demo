@@ -1,6 +1,6 @@
 hello ggc! hello git  66666666666666666666666666666666
 hello ggc! hello git  66666666666
-hello ggc! hello git
+hello ggc! hello git  merge test
 hello ggc! hello git
 hello ggc! hello git  7777777777777777777777777777777
 hello ggc! hello git  77777777777
